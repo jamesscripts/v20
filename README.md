@@ -31,17 +31,15 @@ bash <(falta editar essa parte kkk,)
 
 ## :REQUISITOS DO SISTEMA OPERACIONAL OS
 * Um sistema operacional baseado em Linux (Ubuntu ou Debian)
-* (Ubuntu 14.04) |ultrapassado já kkk| Server x86_64 / Ubuntu 16.04 Server x86_64 (quase ninguém usa esse kk / Ubuntu 18.04 Server x86_64(Recomendado)
+* (Ubuntu 14.04) |(Recomendado)| Server x86_64 / Ubuntu 16.04 Server x86_64 
+(quase ninguém usa esse kk / Ubuntu 18.04 Server x86_64(Recomendado)
 * Debian 8 Server x86_64(Recomendado) / Debian 9 Server x86_64(Nunca testei nesse)
 * Recomendável  usar uma distro nova ou formatada!
 * Idioma por padrão é em Português-BR
 
 ## Créditos:
-1. @crazy_vpn - Developer do Painel Revenda SSH
-2. @backup-new - Contribuidor
+1. @Super|Net_vpn - Painel Revenda SSH
+2. @Editado por - Super-Scripts
 3. @Adeilsonfi - Contribuidor 
-4. illuminati Dev Team - Contribuidor 
-5. @JailondaNET - Contribuidor 
 ```
-Jesus está voltando...
-```
+
